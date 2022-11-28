@@ -1,0 +1,22 @@
+{
+  "name": "www-constants",
+  "version": "1.0.0",
+  "description": "Constants for www-site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAYATEJA04/testing-package-v2.git"
+  },
+  "keywords": [
+    "WWW-CONSTANTS"
+  ],
+  "author": "jaya teja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAYATEJA04/testing-package-v2/issues"
+  },
+  "homepage": "https://github.com/JAYATEJA04/testing-package-v2#readme"
+}
