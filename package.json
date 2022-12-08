@@ -1,6 +1,6 @@
 {
   "name": "www-constants",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Constants for www-site",
   "main": "index.js",
   "scripts": {
